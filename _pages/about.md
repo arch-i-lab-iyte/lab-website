@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://architecture.iyte.edu.tr'>İzmir Institute of Technology</a>. Department of Architecture
 
 profile:
   align: right
